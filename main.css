@@ -14,11 +14,11 @@ body {
 }
 
 p {
-    font-size: 5px;
+    font-size: 7px;
     line-height: 1.0;
     text-align: justify;
     -webkit-background-size: cover;
-    background-size: content;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background: url(menu.jpg) no-repeat center /cover;
